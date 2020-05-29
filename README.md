@@ -3,6 +3,9 @@ Sudoku Game Generator
 
 ## Usage
 ```java
+javac SudokuGame.java //compile
+java SudokuGame //run the program
+
 //Input m x m board size
 Size of your Sudoku board: 
 
